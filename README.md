@@ -1,3 +1,1 @@
-# dynamic-buttons
-
-i hate git
+# dynamic-button
